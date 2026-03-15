@@ -56,7 +56,7 @@ function Home() {
       <nav className="navbar animate-slide-down">
         <div className="logo-container">
           <div className="logo-text">
-            Mentora<span className="logo-dot" style={{color: "var(--primary)"}}>.</span>
+            Mentora<span className="logo-dot" style={{ color: "var(--primary)" }}></span>
           </div>
         </div>
       </nav>
